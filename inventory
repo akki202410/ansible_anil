@@ -1,4 +1,4 @@
-172.16.16.100
-172.16.16.101
-172.16.16.102
+root@172.16.16.100
+root@172.16.16.101
+root@172.16.16.102
 #"ansible_python_interpreter=/usr/bin/python3"
